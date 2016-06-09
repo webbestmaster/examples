@@ -1,0 +1,17 @@
+{
+  "name": "SelectFree",
+  "version": "0.0.1",
+  "description": "SelectFree - custom select",
+  "license": "MIT",
+  "repository": {
+    "type": "git"
+  },
+  "scripts": {
+    "server": "lite-server",
+    "server-dist": "lite-server -c bs-dist-config.json"
+
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.0"
+  }
+}
