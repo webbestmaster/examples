@@ -1,0 +1,12 @@
+{
+  "name": "Mocha - example",
+  "version": "0.0.1",
+  "description": "Mocha - example",
+  "license": "MIT",
+  "repository": {
+    "type": "git"
+  },
+  "dependencies": {
+    "mocha": "^2.5.3"
+  }
+}
