@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 
-#!/bin/bash
 echo "Введите числитель: "
 read dividend
 echo "Введите знаменатель: "

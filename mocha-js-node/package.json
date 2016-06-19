@@ -1,5 +1,5 @@
 {
-  "name": "Mocha - example",
+  "name": "Mocha_example",
   "version": "0.0.1",
   "description": "Mocha - example",
   "license": "MIT",
@@ -7,6 +7,7 @@
     "type": "git"
   },
   "dependencies": {
-    "mocha": "^2.5.3"
+    "mocha": "^2.5.3",
+    "chai": "*"
   }
 }

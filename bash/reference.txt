@@ -1,6 +1,6 @@
 https://habrahabr.ru/post/47163/
 https://habrahabr.ru/post/52871/
-
+https://linuxconfig.org/bash-scripting-tutorial
 
 break выход из цикла for, while или until
 continue выполнение следующей итерации цикла for, while или until
